@@ -1,6 +1,7 @@
 # ICIM Tangram Sim — 七巧板工位的 MuJoCo 仿真平台
 
 > 仓库名 `icim-tangram-sim`，Python 包名仍是 `icim_sim`（代码里的 `import icim_sim` 不变）。
+> 配套的工作间仓库（STEP → 场景生成工具链）：[`icim-tangram-workshop`](https://github.com/michall70/icim-tangram-workshop)
 
 > **English TL;DR** — A MuJoCo digital-twin of a tangram-assembly robot cell. The
 > robot program written for the real cell (a partner team's `main.py`) runs here
