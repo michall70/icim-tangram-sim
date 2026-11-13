@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.ruff_cache/
+.pytest_cache/
+
+# 本机临时文件
+scenarios/tangram_puzzle/config.py.bak_*
+
+# 运行输出：可重新生成；仓库只保留被文档引用的证据
+scenarios/tangram_puzzle/results/
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini

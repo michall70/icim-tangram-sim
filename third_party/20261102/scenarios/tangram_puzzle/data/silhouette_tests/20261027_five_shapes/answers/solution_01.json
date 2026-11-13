@@ -1,0 +1,141 @@
+{
+  "target_image": "silhouette_01.png",
+  "piece_order": [
+    "large_triangle_1",
+    "large_triangle_2",
+    "medium_triangle",
+    "small_triangle_1",
+    "small_triangle_2",
+    "square",
+    "parallelogram"
+  ],
+  "pieces": [
+    [
+      [
+        0.0,
+        0.0
+      ],
+      [
+        4.0,
+        0.0
+      ],
+      [
+        2.0,
+        2.0
+      ]
+    ],
+    [
+      [
+        0.0,
+        0.0
+      ],
+      [
+        2.0,
+        2.0
+      ],
+      [
+        0.0,
+        4.0
+      ]
+    ],
+    [
+      [
+        4.0,
+        2.0
+      ],
+      [
+        4.0,
+        4.0
+      ],
+      [
+        2.0,
+        4.0
+      ]
+    ],
+    [
+      [
+        2.0,
+        2.0
+      ],
+      [
+        3.0,
+        1.0
+      ],
+      [
+        3.0,
+        3.0
+      ]
+    ],
+    [
+      [
+        0.0,
+        4.0
+      ],
+      [
+        1.0,
+        3.0
+      ],
+      [
+        2.0,
+        4.0
+      ]
+    ],
+    [
+      [
+        1.0,
+        3.0
+      ],
+      [
+        2.0,
+        2.0
+      ],
+      [
+        3.0,
+        3.0
+      ],
+      [
+        2.0,
+        4.0
+      ]
+    ],
+    [
+      [
+        3.0,
+        1.0
+      ],
+      [
+        4.0,
+        0.0
+      ],
+      [
+        4.0,
+        2.0
+      ],
+      [
+        3.0,
+        3.0
+      ]
+    ]
+  ],
+  "pixel_transform": {
+    "scale": 204.8,
+    "offset": [
+      102.39999999999998,
+      102.39999999999998
+    ]
+  },
+  "note": "One geometric solution; not robot coordinates. Rotations and translations only, no reflections.",
+  "verified": {
+    "piece_areas": [
+      4,
+      4,
+      2,
+      1,
+      1,
+      2,
+      2
+    ],
+    "no_interior_overlap": true,
+    "one_connected_silhouette_no_holes": true
+  }
+}

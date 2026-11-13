@@ -1,0 +1,302 @@
+[
+  {
+    "file": "silhouette_01.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "pure_binary": true,
+    "margins_ltrb": [
+      102,
+      333,
+      101,
+      332
+    ],
+    "foreground_components": 1
+  },
+  {
+    "file": "silhouette_02.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "pure_binary": true,
+    "margins_ltrb": [
+      102,
+      274,
+      101,
+      273
+    ],
+    "foreground_components": 1
+  },
+  {
+    "file": "silhouette_03.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "pure_binary": true,
+    "margins_ltrb": [
+      102,
+      336,
+      101,
+      335
+    ],
+    "foreground_components": 1
+  },
+  {
+    "file": "silhouette_04.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "pure_binary": true,
+    "margins_ltrb": [
+      102,
+      187,
+      101,
+      186
+    ],
+    "foreground_components": 1
+  },
+  {
+    "file": "silhouette_05.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "pure_binary": true,
+    "margins_ltrb": [
+      167,
+      102,
+      166,
+      101
+    ],
+    "foreground_components": 1
+  },
+  {
+    "file": "silhouette_06.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "pure_binary": true,
+    "margins_ltrb": [
+      102,
+      400,
+      101,
+      399
+    ],
+    "foreground_components": 1
+  },
+  {
+    "file": "silhouette_07.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "pure_binary": true,
+    "margins_ltrb": [
+      102,
+      272,
+      101,
+      271
+    ],
+    "foreground_components": 1
+  },
+  {
+    "file": "silhouette_08.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "pure_binary": true,
+    "margins_ltrb": [
+      102,
+      239,
+      101,
+      238
+    ],
+    "foreground_components": 1
+  },
+  {
+    "file": "silhouette_09.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "pure_binary": true,
+    "margins_ltrb": [
+      102,
+      385,
+      101,
+      384
+    ],
+    "foreground_components": 1
+  },
+  {
+    "file": "silhouette_10.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "pure_binary": true,
+    "margins_ltrb": [
+      102,
+      134,
+      101,
+      133
+    ],
+    "foreground_components": 1
+  },
+  {
+    "file": "silhouette_11.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "pure_binary": true,
+    "margins_ltrb": [
+      102,
+      307,
+      101,
+      306
+    ],
+    "foreground_components": 1
+  },
+  {
+    "file": "silhouette_12.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "pure_binary": true,
+    "margins_ltrb": [
+      102,
+      316,
+      101,
+      315
+    ],
+    "foreground_components": 1
+  },
+  {
+    "file": "silhouette_13.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "pure_binary": true,
+    "margins_ltrb": [
+      102,
+      320,
+      101,
+      319
+    ],
+    "foreground_components": 1
+  },
+  {
+    "file": "silhouette_14.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "pure_binary": true,
+    "margins_ltrb": [
+      147,
+      102,
+      146,
+      101
+    ],
+    "foreground_components": 1
+  },
+  {
+    "file": "silhouette_15.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "pure_binary": true,
+    "margins_ltrb": [
+      102,
+      221,
+      101,
+      220
+    ],
+    "foreground_components": 1
+  },
+  {
+    "file": "silhouette_16.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "pure_binary": true,
+    "margins_ltrb": [
+      102,
+      241,
+      101,
+      240
+    ],
+    "foreground_components": 1
+  },
+  {
+    "file": "silhouette_17.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "pure_binary": true,
+    "margins_ltrb": [
+      173,
+      102,
+      172,
+      101
+    ],
+    "foreground_components": 1
+  },
+  {
+    "file": "silhouette_18.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "pure_binary": true,
+    "margins_ltrb": [
+      102,
+      109,
+      101,
+      108
+    ],
+    "foreground_components": 1
+  },
+  {
+    "file": "silhouette_19.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "pure_binary": true,
+    "margins_ltrb": [
+      102,
+      378,
+      101,
+      377
+    ],
+    "foreground_components": 1
+  },
+  {
+    "file": "silhouette_20.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "pure_binary": true,
+    "margins_ltrb": [
+      102,
+      331,
+      101,
+      330
+    ],
+    "foreground_components": 1
+  }
+]

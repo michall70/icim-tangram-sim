@@ -1,0 +1,12 @@
+ICIM Tangram Sim
+Copyright (c) 2026 icim-tangram-sim contributors
+
+This product includes the work of the robot-side team, kept verbatim under
+third_party/20261102/ (control, detection, planning and the tangram scenario).
+That code is theirs, is not covered by the Apache-2.0 license above, and is
+included only so the demo runs end to end. Ask the original authors before
+reusing it.
+
+The robot geometry and the scene come from the competition's own STEP model
+(Attachment 4-4, Digital 3D Models). The STEP file itself is not redistributed
+here; only meshes derived from it, as required to run the simulation.

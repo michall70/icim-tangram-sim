@@ -1,0 +1,23 @@
+# 依赖装进 .venv，不提交
+.venv/
+__pycache__/
+*.pyc
+
+# 运行产物
+runs/
+
+# 队友的代码：你拷进来的可能是整份仓库（含 .git / data / 几百 MB），
+# 一律不进本仓库；只跟踪这份说明。交付包里由 tools/deliver.py 只带 .py 代码。
+third_party/*
+!third_party/README.md
+
+# 编辑器 / 系统
+.idea/
+.vscode/
+Thumbs.db
+.DS_Store
+MUJOCO_LOG.TXT
+
+# ---- 公开版：队友代码随包提供，方便 clone 即跑 ----
+!third_party/active.txt
+!third_party/20261102/

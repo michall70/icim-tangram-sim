@@ -1,0 +1,6 @@
+# 运行依赖（本机实测版本见行尾注释，2026-10-31）
+# 现场若为 Python 3.8，请使用与之兼容的 numpy/opencv/pyrealsense2 版本。
+numpy>=1.20            # 本机 2.4.6
+opencv-python>=4.5     # 本机 5.0.0
+scipy>=1.7             # 本机 1.18.0（assign 之外的数值工具未强依赖）
+pyrealsense2>=2.50     # 本机 2.59.1；现场 SDK 2.54.2

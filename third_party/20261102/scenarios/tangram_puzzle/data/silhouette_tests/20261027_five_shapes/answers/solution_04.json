@@ -1,0 +1,141 @@
+{
+  "target_image": "silhouette_04.png",
+  "piece_order": [
+    "large_triangle_1",
+    "large_triangle_2",
+    "medium_triangle",
+    "small_triangle_1",
+    "small_triangle_2",
+    "square",
+    "parallelogram"
+  ],
+  "pieces": [
+    [
+      [
+        0.0,
+        0.0
+      ],
+      [
+        4.0,
+        0.0
+      ],
+      [
+        2.0,
+        2.0
+      ]
+    ],
+    [
+      [
+        2.0,
+        2.0
+      ],
+      [
+        4.0,
+        -0.0
+      ],
+      [
+        6.0,
+        2.0
+      ]
+    ],
+    [
+      [
+        -1.4142135624,
+        0.0
+      ],
+      [
+        -1.4142135624,
+        2.0
+      ],
+      [
+        -3.4142135624,
+        2.0
+      ]
+    ],
+    [
+      [
+        1.0,
+        1.0
+      ],
+      [
+        2.0,
+        2.0
+      ],
+      [
+        -0.0,
+        2.0
+      ]
+    ],
+    [
+      [
+        0.0,
+        0.0
+      ],
+      [
+        1.0,
+        1.0
+      ],
+      [
+        0.0,
+        2.0
+      ]
+    ],
+    [
+      [
+        0.0,
+        0.2928932188
+      ],
+      [
+        -0.0,
+        1.7071067812
+      ],
+      [
+        -1.4142135624,
+        1.7071067812
+      ],
+      [
+        -1.4142135624,
+        0.2928932188
+      ]
+    ],
+    [
+      [
+        6.5,
+        0.5
+      ],
+      [
+        7.5,
+        1.5
+      ],
+      [
+        5.5,
+        1.5
+      ],
+      [
+        4.5,
+        0.5
+      ]
+    ]
+  ],
+  "pixel_transform": {
+    "scale": 75.05808781534233,
+    "offset": [
+      358.6643413849326,
+      436.94191218465767
+    ]
+  },
+  "note": "One geometric solution; not robot coordinates. Rotations and translations only, no reflections.",
+  "verified": {
+    "piece_areas": [
+      4,
+      4,
+      2,
+      1,
+      1,
+      2,
+      2
+    ],
+    "no_interior_overlap": true,
+    "one_connected_silhouette_no_holes": true
+  }
+}

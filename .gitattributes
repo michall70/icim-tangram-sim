@@ -1,0 +1,14 @@
+# 让 Windows 上的 git 不要乱改换行；二进制文件不做行尾转换
+* text=auto eol=lf
+*.py    text eol=lf
+*.md    text eol=lf
+*.json  text eol=lf
+*.txt   text eol=lf
+*.xml   text eol=lf
+
+*.png   binary
+*.jpg   binary
+*.stl   binary
+*.npz   binary
+*.zip   binary
+*.exe   binary
